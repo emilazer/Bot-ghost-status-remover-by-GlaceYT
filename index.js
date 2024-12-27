@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Listening To AzeCp "];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
